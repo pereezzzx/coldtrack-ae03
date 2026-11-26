@@ -1,0 +1,9 @@
+# datos generados y lago: se crean con los scripts, no se suben
+datos/
+lago/
+salida_prototipo.txt
+error_prototipo.txt
+sql/02_carga_neon.sql
+mongo/*.json
+__pycache__/
+.venv/
